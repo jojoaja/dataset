@@ -1,4 +1,4 @@
-Time,Time Code,Provinces Name,Provinces Code,Household Access to safe Sanitation (in % of total Household) [HOU.STA.ACSN.ZS],Household Access to Safe Water (in % of total household) [HOU.H2O.ACSN.ZS]
+Time,Time Code,Provinces Name,Provinces Code,Household Access to safe Sanitation (in % of total Household),Household Access to Safe Water (in % of total household)
 2017,YR2017,"Badung, Kab.",ID.BA.BD,87.34457397,93.89833069
 2017,YR2017,"Bangli, Kab.",ID.BA.BN,63.49982452,60.21157074
 2017,YR2017,"Buleleng, Kab.",ID.BA.BL,72.08798981,79.20904541
